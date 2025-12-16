@@ -60,7 +60,7 @@ The API will be available at `http://localhost:3000`
 ## API Documentation
 
 - **Swagger UI**: Once the application is running, visit `http://localhost:3000/api/v1/swagger` for interactive API documentation
-- **Postman Collection**: [Import the Postman collection](https://app.getpostman.com/join-team?invite_code=9c32e0d22dc2e09dccf3f53a372e6356e258917b4cdcdc7bc9d28dc5eb7f5c36)
+- **Postman Collection**: [Import the Postman collection](https://app.getpostman.com/join-team?invite_code=9c32e0d22dc2e09dccf3f53a372e6356e258917b4cdcdc7bc9d28dc5eb7f5c36&target_code=81b473f8b9e34b07b52099de9b543c05)
 
 
 
